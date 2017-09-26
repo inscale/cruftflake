@@ -1,5 +1,5 @@
 {
-    "name": "vscn/cruftflake",
+    "name": "snaper/cruftflake",
     "description": "This package provides a PHP implementation of Twitter Snoflake ID Generator algoritm",
     "keywords": ["snowflake","ZooKeeper","uuid"],
     "authors": [
